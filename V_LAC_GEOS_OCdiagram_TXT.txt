@@ -14,16 +14,16 @@
 *	col14: Reference/bibliography for the sources 4 to 10 and col12 (See bibliography of the paper)
 *	(C) GEOS - Guy Boistel, 2024 ()
 *********************************************************************************************************************************************
-*col1          2       3    4     5      6    7   8   9   10     11      12        13               14
-* ToM HJD  	E(GCVS)	 O-C   AAVSO ADS	ASAS BAV CDB GEOS KWS	type	source	 observer	    Reference
-5427,3000	-4710	-1,90		-1,90						    un.	    BAV/Lit.	un.		    BAV Meyer 2023
-16666,7400	-2455	-0,16		-0,16						    pg	    ADS	Oosterhoff		    Oosterhoff, 1960
-16666,7600	-2455	-0,14		-0,14						    pg	    ADS	Martin, Plummer 	MNRAS jan 1916
-16716,3920	-2445	-0,34		-0,34						    vis	    ADS				        Szabados 1977
-17065,2590	-2375	-0,31		-0,31						    vis	    ADS				        Szabados 1977
-17353,6000	-2317	-1,01		-1,01						    pg  	ADS				        Blazhko	AN 4196,band 175,1907
-17353,6000	-2317	-1,01		-1,01						    vis	    ADS				        Szabados 1977
-17354,3000	-2317	-0,31		-0,31						    un.	    BAV/Lit.	un.		    BAV Meyer 2023
+*col1          2       3    4     5    6    7   8   9   10     11      12        13               14
+* ToM HJD  	E(GCVS)	 O-C   AAVSO ADS	ASAS BAV CDB GEOS KWS	  type	  source	 observer	    Reference
+5427,3000	-4710	-1,90		-1,90						                      un.	    BAV/Lit.	un.		      BAV Meyer 2023
+16666,7400	-2455	-0,16		-0,16						                    pg	    ADS	Oosterhoff		    Oosterhoff, 1960
+16666,7600	-2455	-0,14		-0,14						                    pg	    ADS	Martin, Plummer 	MNRAS jan 1916
+16716,3920	-2445	-0,34		-0,34						                    vis	    ADS				            Szabados 1977
+17065,2590	-2375	-0,31		-0,31						                    vis	    ADS				            Szabados 1977
+17353,6000	-2317	-1,01		-1,01						                    pg  	  ADS				            Blazhko	AN 4196,band 175,1907
+17353,6000	-2317	-1,01		-1,01						                    vis	    ADS				            Szabados 1977
+17354,3000	-2317	-0,31		-0,31						                    un.	    BAV/Lit.	un.		      BAV Meyer 2023
 17399,0970	-2308	-0,37		-0,37						    vis	    ADS				        Szabados 1977
 17613,3410	-2265	-0,41		-0,41						    vis	    ADS				        Szabados 1977
 17777,7100	-2232	-0,50		-0,50						    un.	    BAV/Lit.	un.		    BAV Meyer 2023
